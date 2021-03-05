@@ -1,0 +1,14 @@
+[
+     {
+        "images": "./assests/pics/logo.jpg",
+        "alt": "log",
+        "name": "logo",
+        "Button": "See more details/Apply"
+    },
+    {
+        "images": "./assests/pics/logo-1.jpg",
+        "alt": "log",
+        "name": "logo",
+        "Button": "See more details/Apply"
+    }
+]
